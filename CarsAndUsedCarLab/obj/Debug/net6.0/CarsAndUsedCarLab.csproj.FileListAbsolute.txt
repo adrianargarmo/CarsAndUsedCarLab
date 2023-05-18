@@ -1,0 +1,15 @@
+C:\Users\Adriana\source\repos\CarsAndUsedCarLab\CarsAndUsedCarLab\bin\Debug\net6.0\CarsAndUsedCarLab.exe
+C:\Users\Adriana\source\repos\CarsAndUsedCarLab\CarsAndUsedCarLab\bin\Debug\net6.0\CarsAndUsedCarLab.deps.json
+C:\Users\Adriana\source\repos\CarsAndUsedCarLab\CarsAndUsedCarLab\bin\Debug\net6.0\CarsAndUsedCarLab.runtimeconfig.json
+C:\Users\Adriana\source\repos\CarsAndUsedCarLab\CarsAndUsedCarLab\bin\Debug\net6.0\CarsAndUsedCarLab.dll
+C:\Users\Adriana\source\repos\CarsAndUsedCarLab\CarsAndUsedCarLab\bin\Debug\net6.0\CarsAndUsedCarLab.pdb
+C:\Users\Adriana\source\repos\CarsAndUsedCarLab\CarsAndUsedCarLab\obj\Debug\net6.0\CarsAndUsedCarLab.csproj.AssemblyReference.cache
+C:\Users\Adriana\source\repos\CarsAndUsedCarLab\CarsAndUsedCarLab\obj\Debug\net6.0\CarsAndUsedCarLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriana\source\repos\CarsAndUsedCarLab\CarsAndUsedCarLab\obj\Debug\net6.0\CarsAndUsedCarLab.AssemblyInfoInputs.cache
+C:\Users\Adriana\source\repos\CarsAndUsedCarLab\CarsAndUsedCarLab\obj\Debug\net6.0\CarsAndUsedCarLab.AssemblyInfo.cs
+C:\Users\Adriana\source\repos\CarsAndUsedCarLab\CarsAndUsedCarLab\obj\Debug\net6.0\CarsAndUsedCarLab.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\source\repos\CarsAndUsedCarLab\CarsAndUsedCarLab\obj\Debug\net6.0\CarsAndUsedCarLab.dll
+C:\Users\Adriana\source\repos\CarsAndUsedCarLab\CarsAndUsedCarLab\obj\Debug\net6.0\refint\CarsAndUsedCarLab.dll
+C:\Users\Adriana\source\repos\CarsAndUsedCarLab\CarsAndUsedCarLab\obj\Debug\net6.0\CarsAndUsedCarLab.pdb
+C:\Users\Adriana\source\repos\CarsAndUsedCarLab\CarsAndUsedCarLab\obj\Debug\net6.0\CarsAndUsedCarLab.genruntimeconfig.cache
+C:\Users\Adriana\source\repos\CarsAndUsedCarLab\CarsAndUsedCarLab\obj\Debug\net6.0\ref\CarsAndUsedCarLab.dll
